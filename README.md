@@ -18,6 +18,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+Create .env.local in root folder and inside this create your apl key or paste api key.
+For example:- API_KEY = 123tyui789oijhb96345ijhvgh
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
